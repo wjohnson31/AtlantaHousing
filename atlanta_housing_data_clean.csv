@@ -1,0 +1,28 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,State,City,Metro,CountyName,BaseDate,2024-10-31,2024-12-31,2025-09-30
+71038,300,30318,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.2,-0.6,0.3
+71050,428,30331,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.3,-1.1,0.3
+71035,2528,30315,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.7,-1.2,-0.1
+71036,2813,30316,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,2024-09-30,-0.2,-0.4,0.3
+71031,3316,30311,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.7,-1.6,-0.1
+71043,3514,30324,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.1,-0.4,0.2
+71030,4087,30310,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.9,-1.4,-0.4
+71048,4290,30329,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,2024-09-30,-0.1,0.0,0.4
+71026,4556,30306,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,0.1,0.2,0.4
+71029,4610,30309,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.5,-1.1,0.0
+71025,4619,30305,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.1,-0.3,0.3
+71063,4812,30345,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,2024-09-30,0.1,0.4,0.6
+71032,5199,30312,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.4,-0.8,0.3
+71046,5384,30327,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.2,-0.3,0.1
+71034,5467,30314,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.7,-1.4,-0.3
+71028,5628,30308,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.5,-1.1,0.2
+71027,5695,30307,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,2024-09-30,-0.1,-0.1,0.4
+71070,7623,30354,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.4,-0.7,-0.2
+71037,8058,30317,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Dekalb County,2024-09-30,-0.1,-0.1,0.2
+71033,9724,30313,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.4,-1.1,0.1
+71045,10577,30326,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.3,-0.9,0.2
+71023,11821,30303,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.8,-1.6,-0.1
+71054,13714,30336,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.3,-0.9,1.3
+77917,16339,46031,zip,IN,IN,Atlanta,"Indianapolis-Carmel-Anderson, IN",Hamilton County,2024-09-30,0.0,-0.1,1.2
+85109,16658,61723,zip,IL,IL,Atlanta,"Lincoln, IL",Logan County,2024-09-30,0.6,1.4,-1.0
+71079,19350,30363,zip,GA,GA,Atlanta,"Atlanta-Sandy Springs-Alpharetta, GA",Fulton County,2024-09-30,-0.7,-1.3,-0.2
+63743,30158,14808,zip,NY,NY,Atlanta,"Corning, NY",Steuben County,2024-09-30,0.1,-1.0,-0.5
